@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @manishrajurkar87
+- 😎 I'm Automation Tester ..having experience working with Java & selenium
 - 👀 I’m interested in ... java developement and Automation Testing
 - 🌱 I’m currently learning ... Spring boot development
 - 💞️ I’m looking to collaborate on ... Developement 
